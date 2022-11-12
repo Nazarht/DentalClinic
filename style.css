@@ -65,6 +65,11 @@ body {
 }
 
 @media only screen and (max-width: 500px) {
+
+    body {
+        padding: 15px;
+    }
+
     .heading-primary-main {
         font-size: 25px;
         letter-spacing: 20px;
